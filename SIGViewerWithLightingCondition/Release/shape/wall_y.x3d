@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X3D profile="Interchange">
+  <Scene>
+    <Group >
+      <Transform >
+        <Shape>
+          <Box size="1 240 500"/>
+          <Appearance >
+            <Material diffuseColor='0.7 0.7 0.5' />
+          </Appearance>
+        </Shape>
+      </Transform>
+    </Group>
+  </Scene>
+</X3D>

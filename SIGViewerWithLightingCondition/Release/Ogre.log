@@ -1,0 +1,1113 @@
+13:57:41: Creating resource group General
+13:57:41: Creating resource group Internal
+13:57:41: Creating resource group Autodetect
+13:57:41: SceneManagerFactory for type 'DefaultSceneManager' registered.
+13:57:41: Registering ResourceManager for type Material
+13:57:41: Registering ResourceManager for type Mesh
+13:57:41: Registering ResourceManager for type Skeleton
+13:57:41: MovableObjectFactory for type 'ParticleSystem' registered.
+13:57:41: OverlayElementFactory for type Panel registered.
+13:57:41: OverlayElementFactory for type BorderPanel registered.
+13:57:41: OverlayElementFactory for type TextArea registered.
+13:57:41: Registering ResourceManager for type Font
+13:57:41: ArchiveFactory for archive type FileSystem registered.
+13:57:41: ArchiveFactory for archive type Zip registered.
+13:57:41: ArchiveFactory for archive type EmbeddedZip registered.
+13:57:41: DDS codec registering
+13:57:41: FreeImage version: 3.15.3
+13:57:41: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+13:57:41: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti
+13:57:41: Registering ResourceManager for type HighLevelGpuProgram
+13:57:41: Registering ResourceManager for type Compositor
+13:57:41: MovableObjectFactory for type 'Entity' registered.
+13:57:41: MovableObjectFactory for type 'Light' registered.
+13:57:41: MovableObjectFactory for type 'BillboardSet' registered.
+13:57:41: MovableObjectFactory for type 'ManualObject' registered.
+13:57:41: MovableObjectFactory for type 'BillboardChain' registered.
+13:57:41: MovableObjectFactory for type 'RibbonTrail' registered.
+13:57:41: Loading library ../Release\RenderSystem_Direct3D9
+13:57:41: Installing plugin: D3D9 RenderSystem
+13:57:41: D3D9 : Direct3D9 Rendering Subsystem created.
+13:57:41: D3D9: Driver Detection Starts
+13:57:41: D3D9: Driver Detection Ends
+13:57:41: Plugin successfully installed
+13:57:41: Loading library ../Release\RenderSystem_GL
+13:57:41: Installing plugin: GL RenderSystem
+13:57:41: OpenGL Rendering Subsystem created.
+13:57:41: Plugin successfully installed
+13:57:41: Loading library ../Release\Plugin_ParticleFX
+13:57:41: Installing plugin: ParticleFX
+13:57:41: Particle Emitter Type 'Point' registered
+13:57:41: Particle Emitter Type 'Box' registered
+13:57:41: Particle Emitter Type 'Ellipsoid' registered
+13:57:41: Particle Emitter Type 'Cylinder' registered
+13:57:41: Particle Emitter Type 'Ring' registered
+13:57:41: Particle Emitter Type 'HollowEllipsoid' registered
+13:57:41: Particle Affector Type 'LinearForce' registered
+13:57:41: Particle Affector Type 'ColourFader' registered
+13:57:41: Particle Affector Type 'ColourFader2' registered
+13:57:41: Particle Affector Type 'ColourImage' registered
+13:57:41: Particle Affector Type 'ColourInterpolator' registered
+13:57:41: Particle Affector Type 'Scaler' registered
+13:57:41: Particle Affector Type 'Rotator' registered
+13:57:41: Particle Affector Type 'DirectionRandomiser' registered
+13:57:41: Particle Affector Type 'DeflectorPlane' registered
+13:57:41: Plugin successfully installed
+13:57:41: Loading library ../Release\Plugin_BSPSceneManager
+13:57:41: Installing plugin: BSP Scene Manager
+13:57:41: Plugin successfully installed
+13:57:41: Loading library ../Release\Plugin_CgProgramManager
+13:57:41: Installing plugin: Cg Program Manager
+13:57:41: Plugin successfully installed
+13:57:41: Loading library ../Release\Plugin_PCZSceneManager
+13:57:41: Installing plugin: Portal Connected Zone Scene Manager
+13:57:41: PCZone Factory Type 'ZoneType_Default' registered
+13:57:41: Plugin successfully installed
+13:57:41: Loading library ../Release\Plugin_OctreeZone
+13:57:41: Installing plugin: Octree Zone Factory
+13:57:41: Plugin successfully installed
+13:57:41: Loading library ../Release\Plugin_OctreeSceneManager
+13:57:41: Installing plugin: Octree Scene Manager
+13:57:41: Plugin successfully installed
+13:57:41: *-*-* OGRE Initialising
+13:57:41: *-*-* Version 1.8.0 (Byatis)
+13:57:41: Creating resource group Essential
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+13:57:41: Creating resource group Fonts
+13:57:41: Added resource location '../../CEGUI-0.7.6/datafiles/fonts' of type 'FileSystem' to resource group 'Fonts'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media' of type 'FileSystem' to resource group 'General'
+13:57:41: Creating resource group Imagesets
+13:57:41: Added resource location '../../CEGUI-0.7.6/datafiles/imagesets' of type 'FileSystem' to resource group 'Imagesets'
+13:57:41: Creating resource group Layouts
+13:57:41: Added resource location '../../CEGUI-0.7.6/datafiles/layouts' of type 'FileSystem' to resource group 'Layouts'
+13:57:41: Creating resource group LookNFeel
+13:57:41: Added resource location '../../CEGUI-0.7.6/datafiles/looknfeel' of type 'FileSystem' to resource group 'LookNFeel'
+13:57:41: Creating resource group Popular
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/fonts' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/materials/programs' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/materials/scripts' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/materials/textures' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/materials/textures/nvidia' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/models' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/particle' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/DeferredShadingMedia' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/PCZAppMedia' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/RTShaderLib' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/RTShaderLib/materials' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/materials/textures/SSAO' of type 'FileSystem' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/cubemap.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/dragon.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/fresneldemo.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/ogretestmap.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/ogredance.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/Sinbad.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Added resource location '../../OgreSDK_vc9_v1-8-0/media/packs/skybox.zip' of type 'Zip' to resource group 'Popular'
+13:57:41: Creating resource group Schemes
+13:57:41: Added resource location '../../CEGUI-0.7.6/datafiles/schemes' of type 'FileSystem' to resource group 'Schemes'
+13:57:41: Creating resource group Tests
+13:57:41: Added resource location '../../media/../../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+13:57:41: D3D9 : RenderSystem Option: Full Screen = No
+13:57:41: D3D9 : RenderSystem Option: Video Mode = 1024 x 768 @ 32-bit colour
+13:57:41: D3D9 : RenderSystem Option: Multi device memory hint = Auto hardware buffers management
+13:57:41: CPU Identifier & Features
+13:57:41: -------------------------
+13:57:41:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7-3540M CPU @ 3.00GHz
+13:57:41:  *      SSE: yes
+13:57:41:  *     SSE2: yes
+13:57:41:  *     SSE3: yes
+13:57:41:  *      MMX: yes
+13:57:41:  *   MMXEXT: yes
+13:57:41:  *    3DNOW: no
+13:57:41:  * 3DNOWEXT: no
+13:57:41:  *     CMOV: yes
+13:57:41:  *      TSC: yes
+13:57:41:  *      FPU: yes
+13:57:41:  *      PRO: yes
+13:57:41:  *       HT: no
+13:57:41: -------------------------
+13:57:41: D3D9 : Subsystem Initialising
+13:57:41: Registering ResourceManager for type Texture
+13:57:41: Registering ResourceManager for type GpuProgram
+13:57:41: D3D9RenderSystem::_createRenderWindow "SIGViewer", 1024x768 windowed  miscParams: FSAA=0 FSAAHint= colourDepth=32 gamma=false monitorIndex=0 useNVPerfHUD=false vsync=true vsyncInterval=1 
+13:57:41: D3D9 : Created D3D9 Rendering Window 'SIGViewer' : 1024x768, 32bpp
+13:57:41: D3D9: Vertex texture format supported - PF_L8
+13:57:41: D3D9: Vertex texture format supported - PF_L16
+13:57:41: D3D9: Vertex texture format supported - PF_A8
+13:57:41: D3D9: Vertex texture format supported - PF_A4L4
+13:57:41: D3D9: Vertex texture format supported - PF_BYTE_LA
+13:57:41: D3D9: Vertex texture format supported - PF_R5G6B5
+13:57:41: D3D9: Vertex texture format supported - PF_B5G6R5
+13:57:41: D3D9: Vertex texture format supported - PF_A4R4G4B4
+13:57:41: D3D9: Vertex texture format supported - PF_A1R5G5B5
+13:57:41: D3D9: Vertex texture format supported - PF_A8R8G8B8
+13:57:41: D3D9: Vertex texture format supported - PF_B8G8R8A8
+13:57:41: D3D9: Vertex texture format supported - PF_A2R10G10B10
+13:57:41: D3D9: Vertex texture format supported - PF_A2B10G10R10
+13:57:41: D3D9: Vertex texture format supported - PF_DXT1
+13:57:41: D3D9: Vertex texture format supported - PF_DXT2
+13:57:41: D3D9: Vertex texture format supported - PF_DXT3
+13:57:41: D3D9: Vertex texture format supported - PF_DXT4
+13:57:41: D3D9: Vertex texture format supported - PF_DXT5
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+13:57:41: D3D9: Vertex texture format supported - PF_X8R8G8B8
+13:57:41: D3D9: Vertex texture format supported - PF_R8G8B8A8
+13:57:41: D3D9: Vertex texture format supported - PF_DEPTH
+13:57:41: D3D9: Vertex texture format supported - PF_SHORT_RGBA
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT16_R
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT32_R
+13:57:41: D3D9: Vertex texture format supported - PF_SHORT_GR
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT16_GR
+13:57:41: D3D9: Vertex texture format supported - PF_FLOAT32_GR
+13:57:41: D3D9: Vertex texture format supported - PF_SHORT_RGB
+13:57:41: D3D9: Vertex texture format supported - PF_PVRTC_RGB2
+13:57:41: D3D9: Vertex texture format supported - PF_PVRTC_RGBA2
+13:57:41: D3D9: Vertex texture format supported - PF_PVRTC_RGB4
+13:57:41: D3D9: Vertex texture format supported - PF_PVRTC_RGBA4
+13:57:41: D3D9: Vertex texture format supported - PF_R8
+13:57:41: D3D9: Vertex texture format supported - PF_RG8
+13:57:41: RenderSystem capabilities
+13:57:41: -------------------------
+13:57:41: RenderSystem Name: Direct3D9 Rendering Subsystem
+13:57:41: GPU Vendor: intel
+13:57:41: Device Name: Monitor-1-Intel(R) HD Graphics 4000
+13:57:41: Driver Version: 8.15.10.2696
+13:57:41:  * Fixed function pipeline: yes
+13:57:41:  * Hardware generation of mipmaps: yes
+13:57:41:  * Texture blending: yes
+13:57:41:  * Anisotropic texture filtering: yes
+13:57:41:  * Dot product texture operation: yes
+13:57:41:  * Cube mapping: yes
+13:57:41:  * Hardware stencil buffer: yes
+13:57:41:    - Stencil depth: 8
+13:57:41:    - Two sided stencil support: yes
+13:57:41:    - Wrap stencil values: yes
+13:57:41:  * Hardware vertex / index buffers: yes
+13:57:41:  * Vertex programs: yes
+13:57:41:  * Number of floating-point constants for vertex programs: 256
+13:57:41:  * Number of integer constants for vertex programs: 16
+13:57:41:  * Number of boolean constants for vertex programs: 16
+13:57:41:  * Fragment programs: yes
+13:57:41:  * Number of floating-point constants for fragment programs: 224
+13:57:41:  * Number of integer constants for fragment programs: 16
+13:57:41:  * Number of boolean constants for fragment programs: 16
+13:57:41:  * Geometry programs: no
+13:57:41:  * Number of floating-point constants for geometry programs: 0
+13:57:41:  * Number of integer constants for geometry programs: 24832
+13:57:41:  * Number of boolean constants for geometry programs: 108
+13:57:41:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+13:57:41:  * Texture Compression: yes
+13:57:41:    - DXT: yes
+13:57:41:    - VTC: no
+13:57:41:    - PVRTC: no
+13:57:41:  * Scissor Rectangle: yes
+13:57:41:  * Hardware Occlusion Query: yes
+13:57:41:  * User clip planes: yes
+13:57:41:  * VET_UBYTE4 vertex element type: yes
+13:57:41:  * Infinite far plane projection: yes
+13:57:41:  * Hardware render-to-texture: yes
+13:57:41:  * Floating point textures: yes
+13:57:41:  * Non-power-of-two textures: yes
+13:57:41:  * Volume textures: yes
+13:57:41:  * Multiple Render Targets: 4
+13:57:41:    - With different bit depths: yes
+13:57:41:  * Point Sprites: yes
+13:57:41:  * Extended point parameters: yes
+13:57:41:  * Max Point Size: 256
+13:57:41:  * Vertex texture fetch: yes
+13:57:41:  * Number of world matrices: 0
+13:57:41:  * Number of texture units: 8
+13:57:41:  * Stencil buffer depth: 8
+13:57:41:  * Number of vertex blend matrices: 0
+13:57:41:    - Max vertex textures: 4
+13:57:41:    - Vertex textures shared: no
+13:57:41:  * Render to Vertex Buffer : no
+13:57:41:  * DirectX per stage constants: yes
+13:57:41: ***************************************
+13:57:41: *** D3D9 : Subsystem Initialised OK ***
+13:57:41: ***************************************
+13:57:41: DefaultWorkQueue('Root') initialising on thread 00513BA8.
+13:57:41: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EBC0 starting.
+13:57:41: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EB30 starting.
+13:57:41: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EBF0 starting.
+13:57:41: Particle Renderer Type 'billboard' registered
+13:57:41: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EC20 starting.
+13:57:41: SceneManagerFactory for type 'BspSceneManager' registered.
+13:57:41: Registering ResourceManager for type BspLevel
+13:57:41: SceneManagerFactory for type 'PCZSceneManager' registered.
+13:57:41: MovableObjectFactory for type 'PCZLight' registered.
+13:57:41: MovableObjectFactory for type 'Portal' registered.
+13:57:41: MovableObjectFactory for type 'AntiPortal' registered.
+13:57:41: PCZone Factory Type 'ZoneType_Octree' registered
+13:57:41: SceneManagerFactory for type 'OctreeSceneManager' registered.
+13:57:41: Parsing scripts for resource group Autodetect
+13:57:41: Finished parsing scripts for resource group Autodetect
+13:57:41: Creating resources for group Autodetect
+13:57:41: All done
+13:57:41: Parsing scripts for resource group Essential
+13:57:41: Parsing script SdkTrays.material
+13:57:41: Parsing script SdkTrays.fontdef
+13:57:41: Parsing script SdkTrays.overlay
+13:57:41: Texture: sdk_cursor.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+13:57:41: Texture: sdk_tray.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) Internal format is PF_A8R8G8B8,64x64x1.
+13:57:41: Texture: sdk_button_up.png: Loading 1 faces(PF_A8R8G8B8,128x32x1) Internal format is PF_A8R8G8B8,128x32x1.
+13:57:41: Texture: sdk_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+13:57:41: Texture: sdk_mini_tray.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+13:57:41: Texture: sdk_track.png: Loading 1 faces(PF_A8R8G8B8,16x32x1) Internal format is PF_A8R8G8B8,16x32x1.
+13:57:41: Texture: sdk_handle.png: Loading 1 faces(PF_A8R8G8B8,16x16x1) Internal format is PF_A8R8G8B8,16x16x1.
+13:57:41: Texture: sdk_mini_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+13:57:41: Texture: sdk_label.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+13:57:41: Texture: sdk_separator.png: Loading 1 faces(PF_A8R8G8B8,64x16x1) Internal format is PF_A8R8G8B8,64x16x1.
+13:57:41: Texture: sdk_logo.png: Loading 1 faces(PF_A8R8G8B8,128x64x1) Internal format is PF_A8R8G8B8,128x64x1.
+13:57:41: Texture: sdk_shade.png: Loading 1 faces(PF_A8R8G8B8,64x48x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x48x1.
+13:57:41: Texture: sdk_frame.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+13:57:41: Texture: sdk_mini_text_box_over.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+13:57:41: Texture: sdk_pulse.png: Loading 1 faces(PF_R8G8B8,8x1x1) Internal format is PF_X8R8G8B8,8x1x1.
+13:57:41: Finished parsing scripts for resource group Essential
+13:57:41: Creating resources for group Essential
+13:57:41: All done
+13:57:41: Parsing scripts for resource group Fonts
+13:57:41: Finished parsing scripts for resource group Fonts
+13:57:41: Creating resources for group Fonts
+13:57:41: All done
+13:57:41: Parsing scripts for resource group General
+13:57:41: Finished parsing scripts for resource group General
+13:57:41: Creating resources for group General
+13:57:41: All done
+13:57:41: Parsing scripts for resource group Imagesets
+13:57:41: Finished parsing scripts for resource group Imagesets
+13:57:41: Creating resources for group Imagesets
+13:57:41: All done
+13:57:41: Parsing scripts for resource group Internal
+13:57:41: Finished parsing scripts for resource group Internal
+13:57:41: Creating resources for group Internal
+13:57:41: All done
+13:57:41: Parsing scripts for resource group Layouts
+13:57:41: Finished parsing scripts for resource group Layouts
+13:57:41: Creating resources for group Layouts
+13:57:41: All done
+13:57:41: Parsing scripts for resource group LookNFeel
+13:57:41: Finished parsing scripts for resource group LookNFeel
+13:57:41: Creating resources for group LookNFeel
+13:57:41: All done
+13:57:41: Parsing scripts for resource group Popular
+13:57:41: Parsing script DualQuaternion.program
+13:57:41: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: High-level program Ogre/DualQuaternionHardwareSkinningTwoWeightsCg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(14): setting of constant failed
+13:57:41: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: High-level program Ogre/DualQuaternionHardwareSkinningTwoWeightsTwoPhaseCg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(28): setting of constant failed
+13:57:41: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: High-level program Ogre/DualQuaternionHardwareSkinningTwoWeightsShadowCasterCg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(118): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(119): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(120): setting of constant failed
+13:57:41: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: High-level program Ogre/DualQuaternionHardwareSkinningTwoWeightsTwoPhaseShadowCasterCg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource DualQuaternion.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(149): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(150): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(151): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in DualQuaternion.program(152): setting of constant failed
+13:57:41: Parsing script Examples.program
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Parameter called diffuse does not exist.  in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1451)
+13:57:41: Compiler error: invalid parameters in Examples.program(256): setting of constant failed
+13:57:41: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/HardwareMorphAnimationWithNormals: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:41: High-level program Ogre/HardwareMorphAnimationWithNormals encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/HardwareMorphAnimationWithNormals: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(319): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(320): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(321): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(322): setting of constant failed
+13:57:41: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/HardwarePoseAnimationWithNormals: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:41: High-level program Ogre/HardwarePoseAnimationWithNormals encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/HardwarePoseAnimationWithNormals: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(335): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(336): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(337): setting of constant failed
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in Examples.program(338): setting of constant failed
+13:57:41: Parsing script StdQuad_vp.program
+13:57:41: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource StdQuad_vp.hlsl in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: High-level program Ogre/Compositor/StdQuad_HLSL_vp encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource StdQuad_vp.hlsl in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:41: Compiler error: invalid parameters in StdQuad_vp.program(119): setting of constant failed
+13:57:41: Parsing script deferred_post.program
+13:57:41: Parsing script ShadowCaster.program
+13:57:41: Parsing script ASCII.material
+13:57:41: Parsing script ASMSwizzle.material
+13:57:41: Compiler error: object unsupported by render system in ASMSwizzle.material(1)
+13:57:41: Parsing script BasicColor.material
+13:57:41: Parsing script BlackAndWhite.material
+13:57:41: Parsing script Bloom.material
+13:57:41: Parsing script Bloom2.material
+13:57:41: Parsing script CGSwizzle.material
+13:57:41: Parsing script CompositorDemo.material
+13:57:41: Parsing script DepthShadowmap.material
+13:57:41: Parsing script Dither.material
+13:57:41: Parsing script DOF.material
+13:57:41: Parsing script DualQuaternion.material
+13:57:41: Parsing script Embossed.material
+13:57:41: Parsing script Example-Water.material
+13:57:41: Parsing script Examples-Advanced.material
+13:57:41: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource PassthroughFP.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:41: High-level program Ogre/BasicFragmentPrograms/PassthroughFpCg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource PassthroughFP.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: Compiler error: object unsupported by render system in Examples-Advanced.material(787)
+13:57:42: Parsing script Examples-DynTex.material
+13:57:42: Parsing script Examples-Water.material
+13:57:42: Parsing script Examples.material
+13:57:42: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/BasicFragmentPrograms/DiffuseOneTextureCg: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:42: High-level program Ogre/BasicFragmentPrograms/DiffuseOneTextureCg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/BasicFragmentPrograms/DiffuseOneTextureCg: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:42: Parsing script facial.material
+13:57:42: Parsing script Glass.material
+13:57:42: Parsing script GLSLSwizzle.material
+13:57:42: Parsing script Halftone.material
+13:57:42: Parsing script hdr.material
+13:57:42: Parsing script HeatVision.material
+13:57:42: Parsing script Hurt.material
+13:57:42: Parsing script HWInstancing.material
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HWBasicInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HWBasic_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HWBasicInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HWInstancing.material(54): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HWInstancing.material(56): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HWInstancing.material(57): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HWBasicInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HWBasic/shadow_caster_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HWBasicInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HWInstancing.material(68): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HWInstancing.material(69): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in HWInstancing.material(82)
+13:57:42: Compiler error: reference to a non existing object in HWInstancing.material(103)
+13:57:42: Compiler error: reference to a non existing object in HWInstancing.material(103)
+13:57:42: Parsing script HW_VTFInstancing.material
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HW_VTF_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(173): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(175): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(176): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/HW/shadow_caster_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(187): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(188): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HW_VTF_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(199): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(201): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(202): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/HW/shadow_caster_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(213): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(214): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HW_VTF_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(225): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(227): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(228): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/HW/shadow_caster_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(239): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(240): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in HW_VTFInstancing.material(253)
+13:57:42: Compiler error: reference to a non existing object in HW_VTFInstancing.material(275)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(296): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(297): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in HW_VTFInstancing.material(299)
+13:57:42: Compiler error: reference to a non existing object in HW_VTFInstancing.material(325)
+13:57:42: Compiler error: reference to a non existing object in HW_VTFInstancing.material(369)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(412): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTFInstancing.material(413): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in HW_VTFInstancing.material(416)
+13:57:42: Parsing script HW_VTF_LUTInstancing.material
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HW_VTF_LUT_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(172): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(174): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(175): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/HW/LUT/shadow_caster_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(186): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(187): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HW_VTF_LUT_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(198): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(200): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(201): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/HW/LUT/shadow_caster_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(212): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(213): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/HW_VTF_LUT_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(224): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(226): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(227): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/HW/LUT/shadow_caster_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource HW_VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(238): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in HW_VTF_LUTInstancing.material(239): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in HW_VTF_LUTInstancing.material(252)
+13:57:42: Compiler error: reference to a non existing object in HW_VTF_LUTInstancing.material(274)
+13:57:42: Compiler error: reference to a non existing object in HW_VTF_LUTInstancing.material(296)
+13:57:42: Compiler error: reference to a non existing object in HW_VTF_LUTInstancing.material(322)
+13:57:42: Compiler error: reference to a non existing object in HW_VTF_LUTInstancing.material(365)
+13:57:42: Compiler error: reference to a non existing object in HW_VTF_LUTInstancing.material(409)
+13:57:42: Parsing script instancing.material
+13:57:42: Parsing script InstancingMisc.material
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource InstancingMisc.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/Misc_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource InstancingMisc.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in InstancingMisc.material(41): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in InstancingMisc.material(42): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in InstancingMisc.material(43): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in InstancingMisc.material(44): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in InstancingMisc.material(59)
+13:57:42: Parsing script Invert.material
+13:57:42: Parsing script IsoSurf.material
+13:57:42: Parsing script Laplace.material
+13:57:42: Parsing script MotionBlur.material
+13:57:42: Parsing script MRTtest.material
+13:57:42: Parsing script NightVision.material
+13:57:42: Parsing script Ocean.material
+13:57:42: Parsing script OffsetMapping.material
+13:57:42: Parsing script Ogre.material
+13:57:42: Parsing script OldMovie.material
+13:57:42: Parsing script OldTV.material
+13:57:42: Parsing script ParticleGS.material
+13:57:42: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/GenerateVScg: The compile returned an error.
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:42: High-level program Ogre/ParticleGS/GenerateVScg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/GenerateVScg: The compile returned an error.
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:42: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/DisplayVScg: The compile returned an error.
+<invalid atom 65535>(249) : warning C7050: "output.color" might be used before being initialized
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:42: High-level program Ogre/ParticleGS/DisplayVScg encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/DisplayVScg: The compile returned an error.
+<invalid atom 65535>(249) : warning C7050: "output.color" might be used before being initialized
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:42: Parsing script Penguin.material
+13:57:42: Parsing script Posterize.material
+13:57:42: Parsing script pssm.material
+13:57:42: Parsing script RadialBlur.material
+13:57:42: Parsing script RZR-002.material
+13:57:42: Parsing script ShaderInstancing.material
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/ShaderBased_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(145): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(146): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(148): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(149): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/shadow_caster_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(160): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(161): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(162): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/ShaderBased_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(173): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(174): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(175): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(176): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/shadow_caster_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(187): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(188): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(189): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/ShaderBased_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(200): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(201): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(202): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(203): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/shadow_caster_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource ShaderInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(214): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(215): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in ShaderInstancing.material(216): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in ShaderInstancing.material(230)
+13:57:42: Compiler error: reference to a non existing object in ShaderInstancing.material(246)
+13:57:42: Compiler error: reference to a non existing object in ShaderInstancing.material(262)
+13:57:42: Compiler error: reference to a non existing object in ShaderInstancing.material(282)
+13:57:42: Compiler error: reference to a non existing object in ShaderInstancing.material(319)
+13:57:42: Compiler error: reference to a non existing object in ShaderInstancing.material(357)
+13:57:42: Parsing script ShaderSystem.material
+13:57:42: Parsing script shadows.material
+13:57:42: Parsing script SharpenEdges.material
+13:57:42: Parsing script sibenik.material
+13:57:42: Parsing script smoke.material
+13:57:42: Parsing script Tiling.material
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Parameter called Threshold does not exist.  in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1451)
+13:57:42: Compiler error: invalid parameters in Tiling.material(38): setting of constant failed
+13:57:42: Parsing script VarianceShadowmap.material
+13:57:42: Parsing script VTFInstancing.material
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(172): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(174): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(175): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/shadow_caster_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(186): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(187): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(198): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(200): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(201): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/shadow_caster_dq_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(212): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(213): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(224): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(226): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(227): setting of constant failed
+13:57:42: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: High-level program Ogre/Instancing/VTF/shadow_caster_dq_two_weights_cg_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource VTFInstancing.cg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 756)
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(238): setting of constant failed
+13:57:42: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:42: Compiler error: invalid parameters in VTFInstancing.material(239): setting of constant failed
+13:57:42: Compiler error: reference to a non existing object in VTFInstancing.material(252)
+13:57:42: Compiler error: reference to a non existing object in VTFInstancing.material(274)
+13:57:42: Compiler error: reference to a non existing object in VTFInstancing.material(296)
+13:57:42: Compiler error: reference to a non existing object in VTFInstancing.material(322)
+13:57:42: Compiler error: reference to a non existing object in VTFInstancing.material(360)
+13:57:42: Compiler error: reference to a non existing object in VTFInstancing.material(399)
+13:57:42: Parsing script deferreddemo.material
+13:57:42: Parsing script deferred_post.material
+13:57:42: Parsing script deferred_post_minilight.material
+13:57:42: Parsing script ShadowCaster.material
+13:57:42: Parsing script ssao.material
+13:57:42: Parsing script ROOM.material
+13:57:42: Parsing script DualQuaternionSkinning_Shadow.material
+13:57:42: Parsing script HardwareSkinningShadow.material
+13:57:43: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/RTShader/shadow_receiver_vs: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:43: High-level program Ogre/RTShader/shadow_receiver_vs encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/RTShader/shadow_receiver_vs: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:43: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:43: Compiler error: invalid parameters in HardwareSkinningShadow.material(206): setting of constant failed
+13:57:43: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:43: Compiler error: invalid parameters in HardwareSkinningShadow.material(207): setting of constant failed
+13:57:43: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/RTShader/shadow_receiver_ps: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:43: High-level program Ogre/RTShader/shadow_receiver_ps encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/RTShader/shadow_receiver_ps: The compile returned an error.
+(0) : error C3001: no program defined
+ in CgProgram::compileMicrocode at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+13:57:43: OGRE EXCEPTION(2:InvalidParametersException): Named constants have not been initialised, perhaps a compile error. in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1441)
+13:57:43: Compiler error: invalid parameters in HardwareSkinningShadow.material(219): setting of constant failed
+13:57:43: Parsing script RTShaderSystem.material
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(23): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(52): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(81): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(110): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(146): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(81): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(162): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(81): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(110): token "rtshader_system" is not recognized
+13:57:43: Compiler error: unknown error in RTShaderSystem.material(211): token "rtshader_system" is not recognized
+13:57:43: Parsing script CreaseShading.material
+13:57:43: Parsing script Crytek.material
+13:57:43: Parsing script GBuffer.material
+13:57:43: Parsing script HemisphereMC.material
+13:57:43: Parsing script HorizonBased.material
+13:57:43: Parsing script ShowDepth.material
+13:57:43: Parsing script ShowNormals.material
+13:57:43: Parsing script ShowViewPos.material
+13:57:43: Parsing script SSAOPost.material
+13:57:43: Parsing script UnsharpMask.material
+13:57:43: Parsing script Volumetric.material
+13:57:44: Parsing script RomanBath.material
+13:57:44: Parsing script Sinbad.material
+13:57:44: Parsing script emitted_emitter.particle
+13:57:44: Parsing script Examples-Water.particle
+13:57:44: Parsing script Examples.particle
+13:57:44: Parsing script smoke.particle
+13:57:44: Parsing script Examples.compositor
+13:57:44: Parsing script deferred.compositor
+13:57:44: Parsing script ssao.compositor
+13:57:44: Parsing script SSAO.compositor
+13:57:44: Parsing script SSAOPost.compositor
+13:57:44: Parsing script sample.fontdef
+13:57:44: Finished parsing scripts for resource group Popular
+13:57:44: Creating resources for group Popular
+13:57:44: All done
+13:57:44: Parsing scripts for resource group Schemes
+13:57:44: Finished parsing scripts for resource group Schemes
+13:57:44: Creating resources for group Schemes
+13:57:44: All done
+13:57:44: Parsing scripts for resource group Tests
+13:57:44: Finished parsing scripts for resource group Tests
+13:57:44: Creating resources for group Tests
+13:57:44: All done
+13:57:44: Texture: _cegui_ogre_0: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+13:57:44: Texture: _cegui_ogre_1: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+13:57:44: Texture: _cegui_ogre_2: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+13:57:44: Texture: _cegui_ogre_3: Loading 1 faces(PF_A8B8G8R8,128x128x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+13:57:44: Texture: _cegui_ogre_6: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+13:57:44: *** Initializing OIS ***
+13:57:44: Texture: _cegui_ogre_9: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+13:57:51: Mesh: Loading MySphere.mesh.
+13:57:51: WARNING: MySphere.mesh is an older format ([MeshSerializer_v1.40]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+13:57:51: Can't assign material default to SubEntity of Air cleaner1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Mesh: Loading MyBox.mesh.
+13:57:51: WARNING: MyBox.mesh is an older format ([MeshSerializer_v1.40]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+13:57:51: Can't assign material Material to SubEntity of Air cleaner1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Air cleaner1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material default to SubEntity of Chairs1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Chairs1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Texture: 258978-030-embed.jpg: Loading 1 faces(PF_R8G8B8,452x436x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,452x436x1.
+13:57:51: Can't assign material Material to SubEntity of Chairs1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material default to SubEntity of Curtains1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Curtains1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Texture: large_bAep_2718h206097.jpg: Loading 1 faces(PF_R8G8B8,250x375x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,250x375x1.
+13:57:51: Can't assign material Material to SubEntity of Curtains1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material default to SubEntity of Cushion1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Cushion1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Texture: bu2.jpg: Loading 1 faces(PF_R8G8B8,452x436x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,452x436x1.
+13:57:51: Can't assign material Material to SubEntity of Cushion1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material default to SubEntity of Cushion2/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Cushion2/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Cushion2/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material default to SubEntity of Dipper1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Dipper1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Dipper1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material default to SubEntity of Door1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Can't assign material Material to SubEntity of Door1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:51: Texture: ArchInteriors_12_06_wood1.JPG: Loading 1 faces(PF_R8G8B8,2000x2000x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,2000x2000x1.
+13:57:52: Can't assign material Material to SubEntity of Door1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Fridge1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Fridge1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Fridge1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Frying pan1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Frying pan1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Frying pan1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Gas cooker1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Gas cooker1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Gas cooker1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Kitchen Table1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Kitchen Table1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Kitchen Table1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Kitchen sink1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Kitchen sink1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Kitchen sink1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Kitchen1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Kitchen1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Kitchen1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Lanterns1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Lanterns1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Lanterns1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Low cupboard1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Low cupboard1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Low cupboard1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Low table1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Low table1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Low table1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Magnetoscope1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Magnetoscope1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material Material to SubEntity of Magnetoscope1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:52: Can't assign material default to SubEntity of Room1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material Material to SubEntity of Room1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Texture: 0.jpg: Loading 1 faces(PF_R8G8B8,853x819x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,853x819x1.
+13:57:53: Texture: 00.jpg: Loading 1 faces(PF_R8G8B8,600x850x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,600x850x1.
+13:57:53: Texture: Interior_woodfloor.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) Internal format is PF_X8R8G8B8,512x512x1.
+13:57:53: Can't assign material Material to SubEntity of Room1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material default to SubEntity of Rug1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material Material to SubEntity of Rug1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Texture: ditan.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) Internal format is PF_X8R8G8B8,512x512x1.
+13:57:53: Can't assign material Material to SubEntity of Rug1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material default to SubEntity of Small table1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material Material to SubEntity of Small table1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material Material to SubEntity of Small table1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material default to SubEntity of Sofas1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Can't assign material Material to SubEntity of Sofas1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:53: Texture: 023.JPG: Loading 1 faces(PF_R8G8B8,2000x2000x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,2000x2000x1.
+13:57:54: Can't assign material Material to SubEntity of Sofas1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material default to SubEntity of Tableaux1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of Tableaux1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Texture: hua3.jpg: Loading 1 faces(PF_R8G8B8,363x567x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,363x567x1.
+13:57:54: Texture: printer.jpg: Loading 1 faces(PF_R8G8B8,567x425x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,567x425x1.
+13:57:54: Texture: hua1.jpg: Loading 1 faces(PF_R8G8B8,709x709x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,709x709x1.
+13:57:54: Texture: 860835-929943-32-embed-embed.jpg: Loading 1 faces(PF_R8G8B8,436x436x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,436x436x1.
+13:57:54: Can't assign material Material to SubEntity of Tableaux1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material default to SubEntity of Television1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of Television1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of Television1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material default to SubEntity of chair_a2/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of chair_a2/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Texture: chair_A_c01.jpg: Loading 1 faces(PF_R8G8B8,256x512x1) Internal format is PF_X8R8G8B8,256x512x1.
+13:57:54: Can't assign material Material to SubEntity of chair_a2/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material default to SubEntity of dtable_a/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of dtable_a/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of dtable_a/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material default to SubEntity of gargen/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of gargen/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Texture: grass_1024.jpg: Loading 1 faces(PF_R8G8B8,1024x1024x1) Internal format is PF_X8R8G8B8,1024x1024x1.
+13:57:54: Can't assign material Material to SubEntity of gargen/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material default to SubEntity of mugcup_1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material Material to SubEntity of mugcup_1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Texture: mugcup_c01.jpg: Loading 1 faces(PF_R8G8B8,64x128x1) Internal format is PF_X8R8G8B8,64x128x1.
+13:57:54: Mesh: Loading pSphere1.mesh.
+13:57:54: WARNING: pSphere1.mesh is an older format ([MeshSerializer_v1.41]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+13:57:54: Can't assign material sphere/lambert1 to SubEntity of mugcup_1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:54: Can't assign material default to SubEntity of robot_000/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/WAIST/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/ROOT_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/ROOT_JOINT1/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/ROOT_JOINT2/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/WAIST_LINK0/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Texture: Robot_002_dif.jpg: Loading 1 faces(PF_R8G8B8,1024x1024x1) Internal format is PF_X8R8G8B8,1024x1024x1.
+13:57:55: Texture: Robot_003_dif.jpg: Loading 1 faces(PF_R8G8B8,1024x1024x1) Internal format is PF_X8R8G8B8,1024x1024x1.
+13:57:55: Can't assign material default to SubEntity of robot_000/ROOT_JOINT3/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/WAIST_LINK1/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Texture: Robot_004_dif.jpg: Loading 1 faces(PF_R8G8B8,1024x1024x1) Internal format is PF_X8R8G8B8,1024x1024x1.
+13:57:55: Can't assign material default to SubEntity of robot_000/WAIST_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/WAIST_JOINT1/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/WAIST_JOINT2/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/WAIST_LINK2/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Texture: Robot_001_dif.jpg: Loading 1 faces(PF_R8G8B8,1024x1024x1) Internal format is PF_X8R8G8B8,1024x1024x1.
+13:57:55: Can't assign material default to SubEntity of robot_000/HEAD_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/NECK_LINK/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/HEAD_JOINT1/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/HEAD_LINK/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/REYE_JOINT/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/REYE_LINK/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LEYE_JOINT/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LEYE_LINK/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_LINK0/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT1/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_LINK2/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT3/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_LINK3/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT4/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_LINK4/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT5/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT6/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT7/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_JOINT_FIXED/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LARM_LINK7/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_LINK0/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_JOINT1/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_LINK2/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_JOINT3/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_LINK3/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_JOINT4/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_LINK4/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_JOINT5/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_JOINT6/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_JOINT7/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RARM_LINK7/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LFWHEEL_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LFWHEEL_LINK0/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LBWHEEL_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/LBWHEEL_LINK0/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RFWHEEL_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RFWHEEL_LINK0/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RBWHEEL_JOINT0/JointMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/RBWHEEL_LINK0/SegmentMark because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape1 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape2 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape3 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape4 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape5 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape6 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape7 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape8 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape9 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape10 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape11 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape12 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape13 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape14 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape15 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape16 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape17 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape18 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape19 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of robot_000/ODEShape20 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of robot_000/HEAD_LINK/camera1 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of roof/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of roof/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of roof/220 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of roof/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall1/221 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall2/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall2/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall2/222 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall2/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall3_1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_1/223 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall3_2/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_2/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_2/224 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_2/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall3_3/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_3/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_3/225 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_3/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall3_4/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_4/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_4/226 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_4/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall3_a/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_a/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_a/227 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_a/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall3_b/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_b/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_b/228 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall3_b/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall4_1/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall4_1/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall4_1/229 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall4_1/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material default to SubEntity of wall4_3/position because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall4_3/BoundingBox because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall4_3/230 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:57:55: Can't assign material Material to SubEntity of wall4_3/ODEShape0 because this Material does not exist. Have you forgotten to define it in a .material script?
+13:58:06: Texture: spot_shadow_fade.png: Loading 1 faces(PF_R8G8B8,128x128x1) Internal format is PF_X8R8G8B8,128x128x1.
+13:58:19: DefaultWorkQueue('Root') shutting down on thread 00513BA8.
+13:58:19: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EBC0 stopped.
+13:58:19: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EBF0 stopped.
+13:58:19: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EB30 stopped.
+13:58:19: DefaultWorkQueue('Root')::WorkerFunc - thread 04E4EC20 stopped.
+13:58:19: PCZone Factory Type 'ZoneType_Octree' unregistered
+13:58:19: Unregistering ResourceManager for type BspLevel
+13:58:19: *-*-* OGRE Shutdown
+13:58:19: Unregistering ResourceManager for type Compositor
+13:58:19: Unregistering ResourceManager for type Font
+13:58:19: Unregistering ResourceManager for type Skeleton
+13:58:19: Unregistering ResourceManager for type Mesh
+13:58:19: Unregistering ResourceManager for type HighLevelGpuProgram
+13:58:19: Uninstalling plugin: Octree Scene Manager
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\Plugin_OctreeSceneManager
+13:58:19: Uninstalling plugin: Octree Zone Factory
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\Plugin_OctreeZone
+13:58:19: Uninstalling plugin: Portal Connected Zone Scene Manager
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\Plugin_PCZSceneManager
+13:58:19: Uninstalling plugin: Cg Program Manager
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\Plugin_CgProgramManager
+13:58:19: Uninstalling plugin: BSP Scene Manager
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\Plugin_BSPSceneManager
+13:58:19: Uninstalling plugin: ParticleFX
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\Plugin_ParticleFX
+13:58:19: Uninstalling plugin: GL RenderSystem
+13:58:19: *** Stopping Win32GL Subsystem ***
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\RenderSystem_GL
+13:58:19: Uninstalling plugin: D3D9 RenderSystem
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: 258978-030-embed.jpg
+13:58:19: Released D3D9 texture: 258978-030-embed.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: large_bAep_2718h206097.jpg
+13:58:19: Released D3D9 texture: large_bAep_2718h206097.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: bu2.jpg
+13:58:19: Released D3D9 texture: bu2.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: ArchInteriors_12_06_wood1.JPG
+13:58:19: Released D3D9 texture: ArchInteriors_12_06_wood1.JPG
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: 0.jpg
+13:58:19: Released D3D9 texture: 0.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: 00.jpg
+13:58:19: Released D3D9 texture: 00.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: Interior_woodfloor.jpg
+13:58:19: Released D3D9 texture: Interior_woodfloor.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: ditan.jpg
+13:58:19: Released D3D9 texture: ditan.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: 023.JPG
+13:58:19: Released D3D9 texture: 023.JPG
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: hua3.jpg
+13:58:19: Released D3D9 texture: hua3.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: printer.jpg
+13:58:19: Released D3D9 texture: printer.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: hua1.jpg
+13:58:19: Released D3D9 texture: hua1.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: 860835-929943-32-embed-embed.jpg
+13:58:19: Released D3D9 texture: 860835-929943-32-embed-embed.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: chair_A_c01.jpg
+13:58:19: Released D3D9 texture: chair_A_c01.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: grass_1024.jpg
+13:58:19: Released D3D9 texture: grass_1024.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: mugcup_c01.jpg
+13:58:19: Released D3D9 texture: mugcup_c01.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: Robot_002_dif.jpg
+13:58:19: Released D3D9 texture: Robot_002_dif.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: Robot_003_dif.jpg
+13:58:19: Released D3D9 texture: Robot_003_dif.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: Robot_004_dif.jpg
+13:58:19: Released D3D9 texture: Robot_004_dif.jpg
+13:58:19: D3D9 device: 0x[039C0F60] destroy. Releasing D3D9 texture: Robot_001_dif.jpg
+13:58:19: Released D3D9 texture: Robot_001_dif.jpg
+13:58:19: D3D9 : Shutting down cleanly.
+13:58:19: Unregistering ResourceManager for type Texture
+13:58:19: Unregistering ResourceManager for type GpuProgram
+13:58:19: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+13:58:19: Plugin successfully uninstalled
+13:58:19: Unloading library ../Release\RenderSystem_Direct3D9
+13:58:19: Unregistering ResourceManager for type Material
